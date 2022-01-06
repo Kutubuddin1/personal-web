@@ -18,7 +18,7 @@ h2{
 
 }
 .blue-color{
-    color:  #22577A;
+    color:  #FF5151;
 }
 .flexible-container{
     display: flex;
@@ -88,7 +88,7 @@ p{
     
 }
 #wop{
-    background-color:#2E4C6D;
+    background-color:black;
 }
 #pop{
     text-align: center;
@@ -99,7 +99,8 @@ p{
 }
 footer p{
     text-align: center;
-    color: blanchedalmond);
+    color: white;
+    font-size: 12px;
 }
 div{
     background-color: whitesmoke;
