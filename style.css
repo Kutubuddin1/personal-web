@@ -1,0 +1,121 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+#heading{
+    font-size: 30px;
+    font-family: 'yesava one' cursive;
+    border-left: 5px solid green;
+    border-top-left-radius: 10px;
+    border-image: linear-gradient(45deg, lightsalmon,tomato);
+    border-image-slice: 1;
+
+}
+.blue-color{
+    color:  #22577A;
+}
+.flexible-container{
+    display: flex;
+    margin: 0 50px;
+    
+    margin-bottom: 150px;
+}
+.half-width{
+    height: auto;
+    width: 50%;
+    border: 20px;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(128, 128, 165));
+    
+    font-weight: 700;
+    padding: 7px 27px;
+    border-radius: 5px;
+}
+#mission{
+    position: center;
+}
+.experience-area{
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.experience-item{
+    height: 400px;
+    width: 500px;
+    margin: 10px;
+    padding: 20px;;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: left;
+}
+#van-ar{
+    text-align: center;
+}
+.yellow-color{
+    color: #22577A;
+}
+#web-exp{
+    text-align: left;
+  
+  
+}
+#full-stack{
+    text-align: left;
+    
+
+}
+#tin-lop{
+    text-align: left;
+   
+}
+p{
+    font-size: 15px;
+    
+}
+#wop{
+    background-color:#2E4C6D;
+}
+#pop{
+    text-align: center;
+    color: white;
+}
+.tong{
+    color: tomato;
+}
+footer p{
+    text-align: center;
+}
+div{
+    background-color: whitesmoke;
+}
+#mono{
+    
+    background-image: url(illustrators/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#toto{
+    background-image: url(illustrators/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+#lin{
+    background-image: url(illustrators/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
