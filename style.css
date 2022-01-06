@@ -99,6 +99,7 @@ p{
 }
 footer p{
     text-align: center;
+    color: blanchedalmond);
 }
 div{
     background-color: whitesmoke;
@@ -108,14 +109,18 @@ div{
     background-image: url(illustrators/exp-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 70px;
+
 }
 #toto{
     background-image: url(illustrators/exp-bg.png);
     background-repeat: no-repeat;
+    background-size: 50px;
     
 }
 #lin{
     background-image: url(illustrators/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 80px;
 }
